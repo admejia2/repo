@@ -1,7 +1,7 @@
 
 package businesslogic;
 
-//Class Hipotenusa
+// Class Hipotenusa
 
 public class Hipotenusa {
 public double lado1;

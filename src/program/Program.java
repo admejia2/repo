@@ -5,7 +5,7 @@
 package program;
 import ui.InterfazHip;
 /**
- *
+ **
  * @author Walter
  */
 public class Program {
