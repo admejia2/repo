@@ -100,7 +100,8 @@ public class InterfazHip extends javax.swing.JFrame {
      
      Hipotenusa hip = new Hipotenusa();    
      
-      
+     
+     
      double lado1 = Double.parseDouble(txtLado1.getText());
      double lado2 = Double.parseDouble(txtLado2.getText());
      double hipotenusa = hip.CalcularHip(lado1, lado2);
