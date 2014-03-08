@@ -14,6 +14,7 @@ public class Program {
 
     InterfazHip  i =new InterfazHip();
     i.setVisible(true);
+   
     
     
     
